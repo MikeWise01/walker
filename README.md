@@ -105,4 +105,6 @@ Forthcoming [checks not currently implemented but under development] :
 8.3 [walker83] List all security groups
 
 8.4 [walker84] Check for Roles that can be assumed
+
+8.5 [Walker85] Configuration of AWS Systems Manager
  
