@@ -1,2 +1,2 @@
 # walker
-Prowler configuration updates
+This is an extension Repository For custom prowler configurations
