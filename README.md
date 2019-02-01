@@ -1,5 +1,13 @@
 # walker
-This is an extension Repository For custom prowler configurations
+Author: Michael Wise
+
+
+This is an extension Repository for custom prowler configurations
+
+Instructions:
+
+The group file group11_walker must be copied into the groups directory for prowler.
+
 
 The following checks are applied in the walker group
 
@@ -83,3 +91,18 @@ The following checks are applied in the walker group
  7.39 [extra739] Check if ELBs have logging enabled (Not Scored) (Not part of CIS benchmark)
 
  7.40 [extra740] Check if EBS snapshots are encrypted (Not Scored) (Not part of CIS benchmark)
+
+
+
+Forthcoming [checks not currently implemented but under development] : 
+
+****8 Inventory 
+
+8.1 [walker81] Lis all users across all regions
+
+8.2 [walker82] List all EC2 instances across all regions
+
+8.3 [walker83] List all security groups
+
+8.4 [walker84] Check for Roles that can be assumed
+ 
